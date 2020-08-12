@@ -43,7 +43,7 @@ py -m pip install -U pygame --user
 REM hides C:\... and just shows the required text
 echo off
 REM testing to see if pygame is installed
-echo keys to lay the game:
+echo keys to play the game:
 echo    - space to shoot
 echo    - right arrow to go right
 echo    - left arrow to go left
@@ -79,7 +79,7 @@ py -m pip install -U pygame --user
 REM hides C:\... and just shows the required text
 echo off
 REM testing to see if pygame is installed
-echo keys to lay the game:
+echo keys to play the game:
 echo    - space to shoot
 echo    - right arrow to go right
 echo    - left arrow to go left
